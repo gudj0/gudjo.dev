@@ -206,7 +206,7 @@ export const NotionPage: React.FC<types.PageProps> = ({
           </>
         )}
 
-        <title>{title}</title>
+        <title>gudjo</title>
       </Head>
 
       <CustomFont site={site} />
