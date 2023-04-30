@@ -1,24 +1,22 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'd33f22b7876a4c648e754168ffec2be2',
-
+  rootNotionPageId: '80c81f3d63d54a988770e43e6d155516',
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Ethan Kane',
-  domain: 'EthanKane.org',
-  author: 'Ethan Kane',
+  name: 'Gudmund Jonsson',
+  domain: 'gudjo.dev',
+  author: 'Gudmund Jonsson',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
+  description: 'Personal website',
+  socialImageTitle: 'Personal website',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'EthanKane20',
-  linkedin: 'ethan-kane-38499912a',
+  linkedin: 'gudmundur-jonsson-281957152',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
